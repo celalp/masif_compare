@@ -1,2 +1,4 @@
 *.ipynb*
 *.sif
+.idea
+__pycache__
